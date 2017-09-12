@@ -23,7 +23,6 @@ requirements:
     - matplotlib
     - numpy
     - pmw
-    - pyds9
     - scipy
     - swig
     - xerces-c
@@ -44,7 +43,6 @@ requirements:
     - matplotlib
     - numpy
     - pmw
-    - pyds9
     - scipy
     - swig
     - xerces-c
